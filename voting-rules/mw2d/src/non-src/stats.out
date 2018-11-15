@@ -1,0 +1,36 @@
+kb10: 
+  avg_d = 1.60051137149
+  max_d = 3.20970450014
+  rep_avg_d = 8.27706489373
+  rep_max_d = 9.97129250056
+  party-NONE = 10
+kb10: 
+  avg_d = 1.60561984781
+  max_d = 3.34829196108
+  rep_avg_d = 7.9644400043
+  rep_max_d = 8.84764895785
+  party-NONE = 10
+input-a-stv: 
+  avg_d = 0.312778553842
+  max_d = 0.983340945069
+  rep_avg_d = 5.34319162151
+  rep_max_d = 7.09679296895
+  party-# = 20
+input-b-stv: 
+  avg_d = 0.237529331186
+  max_d = 0.983340945069
+  rep_avg_d = 1.82168242843
+  rep_max_d = 2.66061241041
+  party-# = 40
+input-a-stv: 
+  avg_d = 0.323233424861
+  max_d = 0.943264475706
+  rep_avg_d = 5.41627449318
+  rep_max_d = 6.58642786748
+  party-# = 20
+input-b-stv: 
+  avg_d = 0.235234587408
+  max_d = 0.867114213766
+  rep_avg_d = 1.8501178777
+  rep_max_d = 2.61781774984
+  party-# = 40

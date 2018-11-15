@@ -1,0 +1,27 @@
+1) A rule is a method and should have the following arguments
+
+def compute_approvalvoting(profile, committeesize, tiebreaking=..., tiebreaking_method="", max_committees=0):
+   ....
+
+The method name should be compute_<RULENAME>.
+
+Arguments:
+   profile ... the profile
+   committeesize  ... the desired committee size
+   tiebreaking  ... whether tiebreaking should be used [True/False]
+   tiebreaking_method ... which tiebreaking method should be used (if there is more than one implemented)
+   max_committees ... the maximum number of returned committees
+
+
+2) The method returns a list of tuples, i.e., tuples are committees.
+   If the rule is resolute (i.e. if tiebreaking is used), then the methods returns a list containing a single committee.
+
+3) Committees (tuples) should be sorted
+
+4) Lists of committees should be sorted
+
+5) If tiebreaking=False or tiebreaking=True is not implemented, it should 
+
+      raise NotImplementedError()
+
+   Same if tiebreaking_method or the max_committees count is not implemented.

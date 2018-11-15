@@ -1,0 +1,7 @@
+/pmp.zip
+*.win
+*.png
+*.tar.gz
+phrag_lpex1.lp
+cplex_demo.lp
+/cplex-examples-symlink

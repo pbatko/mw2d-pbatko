@@ -1,0 +1,4 @@
+candidates
+uniform -3 -3 3 3 50
+voters
+uniform -3 -3 3 3 50

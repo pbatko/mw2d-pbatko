@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cplex_samples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test-input" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/pbatko-exp" />
+      <excludeFolder url="file://$MODULE_DIR$/src_expanded_mw2d" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 2.7 (voting-rules-piotr)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
