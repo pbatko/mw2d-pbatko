@@ -1,4 +1,5 @@
-# mw2d-pbatko
+# Setup
+
 
 ```
 > cd voting-rules/mw2d/
@@ -10,3 +11,7 @@
 2 directories should get created:
 1) mw2d-datapoints - contains 2d point data
 2) mw2d-experiments - contains election results
+
+# Approval based rules
+
+Here: `voting-rules/mw2d/src/rules/approval`
