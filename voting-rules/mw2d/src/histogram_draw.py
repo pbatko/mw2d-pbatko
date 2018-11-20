@@ -102,7 +102,7 @@ def drawHistogramSaner2(output_file_path, W, H, HISTOGRAM, TRADITIONAL, threshol
     else:
         drawWithGlobalNormalization(H, W, HISTOGRAM, TOTAL, threshold, col_r, col_g, col_b, dr)
 
-    im.save(output_file_path)
+    im.save(str(output_file_path))
 
 
 if __name__ ==  '__main__':

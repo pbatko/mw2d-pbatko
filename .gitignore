@@ -1,1 +1,4 @@
 *.pyc
+voting-rules/mw2d-datapoints/
+voting-rules/mw2d-experiments/
+

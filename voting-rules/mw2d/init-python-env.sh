@@ -7,4 +7,3 @@
 . ../../common.sh
 
 EnterOrCreateVirtualEnv voting-rules-piotr "$(which python2)"
-
